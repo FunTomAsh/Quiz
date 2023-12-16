@@ -1,0 +1,836 @@
+{
+  "quiz": [
+    {
+      "temat": {
+        "nazwa": "Matematyka",
+        "zdjecie": "mat.png",
+        "pytania": [
+          {
+            "pytanie": {
+              "tresc": "2+2=?",
+              "odpowiedzi": [
+                {
+                  "odp": "4"
+                },
+                {
+                  "odp": "22"
+                },
+                {
+                  "odp": "8"
+                },
+                {
+                  "odp": "6"
+                }
+              ],
+              "poprawnaOdp": "4"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "3*3=?",
+              "odpowiedzi": [
+                {
+                  "odp": "33"
+                },
+                {
+                  "odp": "9"
+                },
+                {
+                  "odp": "6"
+                },
+                {
+                  "odp": "27"
+                }
+              ],
+              "poprawnaOdp": "9"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "2+2*2=?",
+              "odpowiedzi": [
+                {
+                  "odp": "16"
+                },
+                {
+                  "odp": "6"
+                },
+                {
+                  "odp": "8"
+                },
+                {
+                  "odp": "4"
+                }
+              ],
+              "poprawnaOdp": "6"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "5-3=?",
+              "odpowiedzi": [
+                {
+                  "odp": "2"
+                },
+                {
+                  "odp": "8"
+                },
+                {
+                  "odp": "5"
+                },
+                {
+                  "odp": "1"
+                }
+              ],
+              "poprawnaOdp": "2"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "4/2=?",
+              "odpowiedzi": [
+                {
+                  "odp": "1"
+                },
+                {
+                  "odp": "8"
+                },
+                {
+                  "odp": "2"
+                },
+                {
+                  "odp": "6"
+                }
+              ],
+              "poprawnaOdp": "2"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "7*8=?",
+              "odpowiedzi": [
+                {
+                  "odp": "56"
+                },
+                {
+                  "odp": "15"
+                },
+                {
+                  "odp": "64"
+                },
+                {
+                  "odp": "28"
+                }
+              ],
+              "poprawnaOdp": "56"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "10-5=?",
+              "odpowiedzi": [
+                {
+                  "odp": "5"
+                },
+                {
+                  "odp": "15"
+                },
+                {
+                  "odp": "10"
+                },
+                {
+                  "odp": "2"
+                }
+              ],
+              "poprawnaOdp": "5"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "3^2=?",
+              "odpowiedzi": [
+                {
+                  "odp": "6"
+                },
+                {
+                  "odp": "9"
+                },
+                {
+                  "odp": "5"
+                },
+                {
+                  "odp": "27"
+                }
+              ],
+              "poprawnaOdp": "9"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "6*6=?",
+              "odpowiedzi": [
+                {
+                  "odp": "36"
+                },
+                {
+                  "odp": "18"
+                },
+                {
+                  "odp": "24"
+                },
+                {
+                  "odp": "12"
+                }
+              ],
+              "poprawnaOdp": "36"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "9+4=?",
+              "odpowiedzi": [
+                {
+                  "odp": "13"
+                },
+                {
+                  "odp": "22"
+                },
+                {
+                  "odp": "17"
+                },
+                {
+                  "odp": "9"
+                }
+              ],
+              "poprawnaOdp": "13"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "temat": {
+        "nazwa": "Chemia",
+        "zdjecie": "chem.png",
+        "pytania": [
+          {
+            "pytanie": {
+              "tresc": "Co oznacza skrót 'H2O'?",
+              "odpowiedzi": [
+                {
+                  "odp": "Kwas siarkowy"
+                },
+                {
+                  "odp": "Woda"
+                },
+                {
+                  "odp": "Azot"
+                },
+                {
+                  "odp": "Tlen"
+                }
+              ],
+              "poprawnaOdp": "Woda"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Jaki jest symbol chemiczny dla złota?",
+              "odpowiedzi": [
+                {
+                  "odp": "Zn"
+                },
+                {
+                  "odp": "Fe"
+                },
+                {
+                  "odp": "Au"
+                },
+                {
+                  "odp": "Ag"
+                }
+              ],
+              "poprawnaOdp": "Au"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Ile pierwiastków chemicznych zawiera cząsteczka dwutlenku węgla (CO2)?",
+              "odpowiedzi": [
+                {
+                  "odp": "1"
+                },
+                {
+                  "odp": "2"
+                },
+                {
+                  "odp": "3"
+                },
+                {
+                  "odp": "4"
+                }
+              ],
+              "poprawnaOdp": "2"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Co oznacza skrót 'NaCl'?",
+              "odpowiedzi": [
+                {
+                  "odp": "Soda kalcynowana"
+                },
+                {
+                  "odp": "Kwas solny"
+                },
+                {
+                  "odp": "Sól kuchenna"
+                },
+                {
+                  "odp": "Soda oczyszczona"
+                }
+              ],
+              "poprawnaOdp": "Sól kuchenna"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Jaki gaz stanowi największą część atmosfery ziemskiej?",
+              "odpowiedzi": [
+                {
+                  "odp": "Azot"
+                },
+                {
+                  "odp": "Tlen"
+                },
+                {
+                  "odp": "Argon"
+                },
+                {
+                  "odp": "Wodór"
+                }
+              ],
+              "poprawnaOdp": "Azot"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Czym jest kwas siarkowy?",
+              "odpowiedzi": [
+                {
+                  "odp": "H2O"
+                },
+                {
+                  "odp": "H2SO4"
+                },
+                {
+                  "odp": "CO2"
+                },
+                {
+                  "odp": "NaCl"
+                }
+              ],
+              "poprawnaOdp": "H2SO4"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Jak nazywa się proces, podczas którego ciało stałe przechodzi bezpośrednio w gaz?",
+              "odpowiedzi": [
+                {
+                  "odp": "Sublimacja"
+                },
+                {
+                  "odp": "Fuzja"
+                },
+                {
+                  "odp": "Kondensacja"
+                },
+                {
+                  "odp": "Destylacja"
+                }
+              ],
+              "poprawnaOdp": "Sublimacja"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Ile atomów wodoru zawiera cząsteczka metanu (CH4)?",
+              "odpowiedzi": [
+                {
+                  "odp": "1"
+                },
+                {
+                  "odp": "2"
+                },
+                {
+                  "odp": "3"
+                },
+                {
+                  "odp": "4"
+                }
+              ],
+              "poprawnaOdp": "4"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Jak nazywa się reakcja chemiczna, podczas której następuje wymiana miejscami atomów w cząsteczkach?",
+              "odpowiedzi": [
+                {
+                  "odp": "Redukcja"
+                },
+                {
+                  "odp": "Dehydratacja"
+                },
+                {
+                  "odp": "Substytucja"
+                },
+                {
+                  "odp": "Oksydacja"
+                }
+              ],
+              "poprawnaOdp": "Substytucja"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Który pierwiastek chemiczny jest stosowany w lampach żarowych?",
+              "odpowiedzi": [
+                {
+                  "odp": "Argon"
+                },
+                {
+                  "odp": "Hel"
+                },
+                {
+                  "odp": "Neon"
+                },
+                {
+                  "odp": "Krypton"
+                }
+              ],
+              "poprawnaOdp": "Argon"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "temat": {
+        "nazwa": "HTML",
+        "zdjecie": "html.png",
+        "pytania": [
+          {
+            "pytanie": {
+              "tresc": "Co oznacza skrót 'HTML'?",
+              "odpowiedzi": [
+                {
+                  "odp": "HyperText Markup Language"
+                },
+                {
+                  "odp": "High-Level Text Management Language"
+                },
+                {
+                  "odp": "Home Tool Markup Language"
+                },
+                {
+                  "odp": "Hyperlink and Text Management Language"
+                }
+              ],
+              "poprawnaOdp": "HyperText Markup Language"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Jakie znaczniki HTML są używane do utworzenia nagłówka pierwszego poziomu?",
+              "odpowiedzi": [
+                {
+                  "odp": "<h1>"
+                },
+                {
+                  "odp": "<header>"
+                },
+                {
+                  "odp": "<heading>"
+                },
+                {
+                  "odp": "<head>"
+                }
+              ],
+              "poprawnaOdp": "<h1>"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Który atrybut HTML jest używany do określenia hiperłącza?",
+              "odpowiedzi": [
+                {
+                  "odp": "src"
+                },
+                {
+                  "odp": "link"
+                },
+                {
+                  "odp": "href"
+                },
+                {
+                  "odp": "url"
+                }
+              ],
+              "poprawnaOdp": "href"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Jak w HTML oznaczyć listę numerowaną?",
+              "odpowiedzi": [
+                {
+                  "odp": "<ul>"
+                },
+                {
+                  "odp": "<li>"
+                },
+                {
+                  "odp": "<ol>"
+                },
+                {
+                  "odp": "<dl>"
+                }
+              ],
+              "poprawnaOdp": "<ol>"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Co oznacza skrót 'CSS'?",
+              "odpowiedzi": [
+                {
+                  "odp": "Computer Style Sheets"
+                },
+                {
+                  "odp": "Creative Style Sheets"
+                },
+                {
+                  "odp": "Colorful Style Sheets"
+                },
+                {
+                  "odp": "Cascading Style Sheets"
+                }
+              ],
+              "poprawnaOdp": "Cascading Style Sheets"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Który znacznik HTML jest używany do wstawiania obrazu?",
+              "odpowiedzi": [
+                {
+                  "odp": "<img>"
+                },
+                {
+                  "odp": "<picture>"
+                },
+                {
+                  "odp": "<image>"
+                },
+                {
+                  "odp": "<figure>"
+                }
+              ],
+              "poprawnaOdp": "<img>"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "W którym elemencie HTML umieszcza się skrypty JavaScript?",
+              "odpowiedzi": [
+                {
+                  "odp": "<scripting>"
+                },
+                {
+                  "odp": "<js>"
+                },
+                {
+                  "odp": "<javascript>"
+                },
+                {
+                  "odp": "<script>"
+                }
+              ],
+              "poprawnaOdp": "<script>"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Który atrybut HTML jest używany do określenia koloru tekstu?",
+              "odpowiedzi": [
+                {
+                  "odp": "color"
+                },
+                {
+                  "odp": "style"
+                },
+                {
+                  "odp": "text-color"
+                },
+                {
+                  "odp": "font-color"
+                }
+              ],
+              "poprawnaOdp": "color"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Jak utworzyć hiperłącze otwierające się w nowym oknie?",
+              "odpowiedzi": [
+                {
+                  "odp": "<a href='link' target='_blank'>"
+                },
+                {
+                  "odp": "<a href='link' target='_new'>"
+                },
+                {
+                  "odp": "<a href='link' new>"
+                },
+                {
+                  "odp": "<a href='link' open>"
+                }
+              ],
+              "poprawnaOdp": "<a href='link' target='_blank'>"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Które zdarzenie JavaScript jest wywoływane, gdy użytkownik najedzie myszką na element?",
+              "odpowiedzi": [
+                {
+                  "odp": "onhover"
+                },
+                {
+                  "odp": "onmouse"
+                },
+                {
+                  "odp": "onmouseover"
+                },
+                {
+                  "odp": "onmouseenter"
+                }
+              ],
+              "poprawnaOdp": "onmouseover"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "temat": {
+        "nazwa": "Java",
+        "zdjecie": "java.png",
+        "pytania": [
+          {
+            "pytanie": {
+              "tresc": "Kto jest twórcą języka programowania Java?",
+              "odpowiedzi": [
+                {
+                  "odp": "Bill Gates"
+                },
+                {
+                  "odp": "Mark Zuckerberg"
+                },
+                {
+                  "odp": "James Gosling"
+                },
+                {
+                  "odp": "Larry Page"
+                }
+              ],
+              "poprawnaOdp": "James Gosling"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Która z poniższych nie jest podstawowym typem danych w języku Java?",
+              "odpowiedzi": [
+                {
+                  "odp": "int"
+                },
+                {
+                  "odp": "boolean"
+                },
+                {
+                  "odp": "string"
+                },
+                {
+                  "odp": "float"
+                }
+              ],
+              "poprawnaOdp": "string"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Jak utworzyć obiekt w języku Java?",
+              "odpowiedzi": [
+                {
+                  "odp": "new Object();"
+                },
+                {
+                  "odp": "create Object();"
+                },
+                {
+                  "odp": "Object.create();"
+                },
+                {
+                  "odp": "Object();"
+                }
+              ],
+              "poprawnaOdp": "new Object();"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Co oznacza termin 'Java Virtual Machine (JVM)'?",
+              "odpowiedzi": [
+                {
+                  "odp": "Java Very Modern"
+                },
+                {
+                  "odp": "Jazz Virtual Machine"
+                },
+                {
+                  "odp": "Java Virtual Memory"
+                },
+                {
+                  "odp": "Java Virtual Machine"
+                }
+              ],
+              "poprawnaOdp": "Java Virtual Machine"
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Jaki jest cel stosowania słowa kluczowego 'final' przed zmienną w Java?",
+              "odpowiedzi": [
+                {
+                  "odp": "Oznacza, że zmienna jest ostatnia w programie."
+                },
+                {
+                  "odp": "Oznacza, że zmienna nie może być zmieniona."
+                },
+                {
+                  "odp": "Oznacza, że zmienna jest używana tylko raz."
+                },
+                {
+                  "odp": "Oznacza, że zmienna jest finalna w sensie szybkości."
+                }
+              ],
+              "poprawnaOdp": "Oznacza, że zmienna nie może być zmieniona."
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "W jaki sposób obsługiwać wyjątki w języku Java?",
+              "odpowiedzi": [
+                {
+                  "odp": "Za pomocą instrukcji 'try', 'catch', 'finally'."
+                },
+                {
+                  "odp": "Za pomocą instrukcji 'if'."
+                },
+                {
+                  "odp": "Za pomocą instrukcji 'switch'."
+                },
+                {
+                  "odp": "Za pomocą instrukcji 'throw'."
+                }
+              ],
+              "poprawnaOdp": "Za pomocą instrukcji 'try', 'catch', 'finally'."
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "Co to jest polimorfizm w kontekście programowania obiektowego?",
+              "odpowiedzi": [
+                {
+                  "odp": "Możliwość dziedziczenia tylko po jednej klasie."
+                },
+                {
+                  "odp": "Możliwość posiadania wielu form."
+                },
+                {
+                  "odp": "Możliwość tworzenia wielu instancji klasy."
+                },
+                {
+                  "odp": "Możliwość zagnieżdżania klas."
+                }
+              ],
+              "poprawnaOdp": "Możliwość posiadania wielu form."
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "W jaki sposób można zrealizować dziedziczenie w języku Java?",
+              "odpowiedzi": [
+                {
+                  "odp": "Za pomocą 'extend'."
+                },
+                {
+                  "odp": "Za pomocą 'inherit'."
+                },
+                {
+                  "odp": "Za pomocą 'implement'."
+                },
+                {
+                  "odp": "Za pomocą 'class'."
+                }
+              ],
+              "poprawnaOdp": "Za pomocą 'extend'."
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "W jaki sposób można zrealizować dziedziczenie w języku Java?",
+              "odpowiedzi": [
+                {
+                  "odp": "Za pomocą 'extend'."
+                },
+                {
+                  "odp": "Za pomocą 'inherit'."
+                },
+                {
+                  "odp": "Za pomocą 'implement'."
+                },
+                {
+                  "odp": "Za pomocą 'class'."
+                }
+              ],
+              "poprawnaOdp": "Za pomocą 'extend'."
+            }
+          },
+          {
+            "pytanie": {
+              "tresc": "W jaki sposób można zrealizować dziedziczenie w języku Java?",
+              "odpowiedzi": [
+                {
+                  "odp": "Za pomocą 'extend'."
+                },
+                {
+                  "odp": "Za pomocą 'inherit'."
+                },
+                {
+                  "odp": "Za pomocą 'implement'."
+                },
+                {
+                  "odp": "Za pomocą 'class'."
+                }
+              ],
+              "poprawnaOdp": "Za pomocą 'extend'."
+            }
+          }
+        ]
+      }
+    }
+    ]
+}

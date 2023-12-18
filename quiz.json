@@ -3,11 +3,11 @@
     {
       "temat": {
         "nazwa": "Matematyka",
-        "zdjecie": "https://raw.githubusercontent.com/TomashKarpei/Quiz/main/chem.png",
+        "zdjecie": "https://raw.githubusercontent.com/TomashKarpei/Quiz/main/mat.png",
         "pytania": [
           {
             "pytanie": {
-              "tresc": "2+2=?",
+              "tresc": "2+4=?",
               "odpowiedzi": [
                 {
                   "odp": "4"

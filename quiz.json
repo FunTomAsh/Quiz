@@ -3,6 +3,7 @@
     {
       "temat": {
         "nazwa": "Matematyka",
+        "nazwaZdjecia": "mat.png",
         "zdjecie": "https://raw.githubusercontent.com/TomashKarpei/Quiz/main/mat.png",
         "pytania": [
           {
@@ -211,6 +212,7 @@
     {
       "temat": {
         "nazwa": "Chemia",
+        "nazwaZdjecia": "mat.png",
         "zdjecie": "https://raw.githubusercontent.com/TomashKarpei/Quiz/main/mat.png",
         "pytania": [
           {
@@ -419,6 +421,7 @@
     {
       "temat": {
         "nazwa": "HTML",
+        "nazwaZdjecia": "html.png",
         "zdjecie": "https://raw.githubusercontent.com/TomashKarpei/Quiz/main/html.png",
         "pytania": [
           {
@@ -627,6 +630,7 @@
     {
       "temat": {
         "nazwa": "Java",
+        "nazwaZdjecia": "java.png",
         "zdjecie": "https://raw.githubusercontent.com/TomashKarpei/Quiz/main/java.png",
         "pytania": [
           {

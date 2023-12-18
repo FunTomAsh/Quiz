@@ -212,8 +212,8 @@
     {
       "temat": {
         "nazwa": "Chemia",
-        "nazwaZdjecia": "chem.png",
-        "zdjecie": "https://raw.githubusercontent.com/TomashKarpei/Quiz/main/chem.png",
+        "nazwaZdjecia": "mat.png",
+        "zdjecie": "https://raw.githubusercontent.com/TomashKarpei/Quiz/main/mat.png",
         "pytania": [
           {
             "pytanie": {
